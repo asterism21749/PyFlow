@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.asterism21749.pyflow
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
